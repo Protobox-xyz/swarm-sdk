@@ -1,0 +1,23 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "swarm_sdk"
+version = "0.0.1"
+authors = [
+  { name="Ioseb X", email="ioseb@maxinai.com" },
+]
+description = "SWARM SDK for Python"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/Protobox-xyz/swarm-sdk"
+"Bug Tracker" = "https://github.com/Protobox-xyz/swarm-sdk/issues"
+
