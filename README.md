@@ -23,7 +23,7 @@ return session.client(
 Please refer to the [Protobox Gateway](https://github.com/Protobox-xyz/protobox-gateway) repo and [Gitbook](https://docs.protobox.xyz/resources/) for additional resources.
 
 ## Team 👥
-[Maintainers](https://github.com/orgs/Protobox-xyz/people)
+[Contributors](https://github.com/Protobox-xyz/swarm-sdk/graphs/contributors)
 
 ### Contributions and Feedback 🖋️
 For partnerships and integrations, please reach out to us at team@protobox.xyz.
